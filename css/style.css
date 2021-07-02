@@ -1,0 +1,186 @@
+.marker{
+    color: #9f9da0;
+}
+.bothead{
+    background: #fbfbfb; 
+}
+.content{
+    color: #9f9da0;
+}
+.buy{
+    color: #19191b;
+}
+.buynow:hover{
+    color: #19191b;
+}
+.buynow{
+    text-decoration: none;
+}
+.nextcontent{
+    background: #fbfbfb;
+}
+.nextt{
+    color: #9f9da0;
+}
+.next{
+    color: #19191b;
+}
+.rock1{
+    color: #19191b;
+    text-decoration: none;
+    font-size: 20px;
+}
+.rock1:hover{
+    color:#fd4444;
+}
+.tien{
+    font-size: 20px;
+    color: #1b191b;
+}
+.thirtcontent{
+    background: #fbfbfb;
+}
+.sixcontent{
+    background: #fbfbfb;
+}
+.sdt{
+    font-size: 20px;
+    text-decoration: none;
+}
+.mot{
+    text-align: center;
+}
+.hai{
+    text-align: center;
+}
+.se{
+    color: #fd4444;
+    text-decoration: none;
+}
+.se:hover{
+    color: #148ff1;
+}
+.secondcontent{
+    padding: 100px 0px;
+}
+.ba{
+    text-align: center;
+}
+.maybay{
+    border: solid 1px;
+    padding-top: 11px;
+    padding-left: 14px;
+    padding-bottom: 12px;
+    padding-right: 14px;
+    background:#148ff1;
+   
+}
+.maybay:hover{
+    background: black;
+}
+.enter{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+footer{
+    background: #363739;
+}
+.sep{
+    border: 1px dashed ;
+    padding: 1px 1px;
+    width: 20px;
+    height: 20px;
+    font-size: 6px;
+    color: #fefefe;
+    margin-left: 515px;
+}
+.our{
+    margin-left: 17px;
+    color: #fefefe;
+}
+.sdtt{
+    color: #fefefe;
+}
+.woo{
+    font-size: 12px;
+    color: #9f9da0;
+}
+.gach {
+    border-bottom: solid #fefefe 1px;
+    margin-left: 621px;
+    margin-right: 628px;
+    padding-bottom: 15px;
+}
+.hv1:hover{
+    color: #fd4444;
+}
+.hv1{
+    padding: 0px 7px;
+    color: #9f9da0;
+}
+.hd{
+    font-size: 12px;
+}
+.ac:hover{
+text-decoration: none;
+color: black;
+}
+.ac{
+    text-decoration: none;
+    color: black;
+}
+div#my-div {
+	width: 17px;
+	height: 17px;
+	background:#148ff1;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	--border-radius: 25px;
+	border-radius: 25px;
+    text-align: center;
+    font-size: 12px;
+    color: #fefefe;
+}
+div#my-div:hover {
+	width: 17px;
+	height: 17px;
+	background:#fd4444;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	--border-radius: 25px;
+	border-radius: 25px;
+    color: #fefefe;
+}
+.tron{
+    padding-top: 20px;
+    margin-right: 25px;
+    position: absolute;
+    right:40px;
+}
+a.nav-link1{
+    text-decoration: none;
+    color: #272331;}
+a.nav-link1:hover{
+   color: #148ff1;
+}
+.enter{
+   padding-left: 20px;
+}
+.cuoicuong{
+    display: flex;
+ 
+}
+.hv2:hover{
+    color: #148ff1;
+}
+.hv2{
+    padding-right: 9px;
+    font-size: 10px;
+    color: #9f9da0;
+}
+
+
+
+
